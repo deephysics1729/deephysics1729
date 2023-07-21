@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chitradeep.
 - 👀 I’m interested in understanding long-term magnetic activity of our nearest star, the Sun.
-- 🌱 I’m currently simulating a 3D Sun in a computer and exploring various statistical techniques.
+- 🌱 I’m currently simulating a 3D Sun in a computer and trying hard to benchmark it with observations.
+- 🌱 I’m also learning various statistical data analysis techniques.
 - 💞️ I’m looking to collaborate on the application of artificial intelligence and machine learning in heliophysics.
 - 📫 You can reach me at chitrodeephysics1729[at]gmail[dot]com
 
