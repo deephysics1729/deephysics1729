@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Chitradeep, a PhD student from the [Center of Excellence in Space Sciences India (CESSI)](www.cessi.in).
+- 👋 Hi, I’m Chitradeep, a PhD student from the [Center of Excellence in Space Sciences India (CESSI)](cessi.in).
 - 👀 My research interest involves understanding the long-term magnetic activity of our nearest star, the Sun.
 - 🌱 Currently I am developing 3D MHD simulations of the Sun and trying hard to benchmark it with observations.
 - 🌱 I’m also passionate about playing with statistical data analysis and data visualization techniques.
