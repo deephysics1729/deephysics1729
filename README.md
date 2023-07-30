@@ -6,7 +6,7 @@
 - 📫 You can reach me at chitrodeephysics1729[at]gmail[dot]com
 
 <!---
-deephysics1729/deephysics1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+deephysics1729/deephysics1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile
 You can click the Preview link to take a look at your changes.
 --->
 <!---
