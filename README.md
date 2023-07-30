@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Chitradeep, a PhD student from the Center of Excellence in Space Sciences India (CESSI).
-- 👀 I’m interested in understanding the long-term magnetic activity of our nearest star, the Sun.
-- 🌱 I’m currently simulating a 3D Sun on a computer and trying hard to benchmark it with observations.
-- 🌱 I’m also passionate about statistical data analysis techniques.
-- 💞️ I’m looking to collaborate on the application of artificial intelligence and machine learning in heliophysics.
+- 👀 My research interest involves understanding the long-term magnetic activity of our nearest star, the Sun.
+- 🌱 Currently I am developing 3D MHD simulations of the Sun and trying hard to benchmark it with observations.
+- 🌱 I’m also passionate about playing with statistical data analysis and data visualization techniques.
+- 💞️ Looking forward to collaborating on the application of artificial intelligence and machine learning in heliophysics.
 - 📫 You can reach me at chitrodeephysics1729[at]gmail[dot]com
 
 <!---
