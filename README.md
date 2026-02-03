@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Chitradeep, a PhD student from the [Center of Excellence in Space Sciences India (CESSI)](http://www.cessi.in).
-- 👀 My research interest involves understanding the long-term magnetic activity of our nearest star, the Sun.
-- 🌱 Currently I am developing 3D MHD simulations of the Sun and trying hard to benchmark it with observations.
-- 🌱 I’m also passionate about playing with statistical data analysis and data visualization techniques.
-- 💞️ Looking forward to collaborating on the application of artificial intelligence and machine learning in heliophysics.
+- 👋 Hi, I’m Chitradeep, a Postdoc at the [Department of Meteorology, University of Reading, UK](https://research.reading.ac.uk/meteorology/).
+- 👀 My research interest involves understanding the long-term magnetic variability of our nearest star, the Sun.
+- 🌱 Currently, I am reconstructing the Sun's magnetic activity cycles through past millennia using radio-isotope data.
+- 🌱 I’m also passionate about playing with statistical data analysis and data visualisation techniques.
+- 💞️ Open for collaborations.
 - 📫 You can reach me at chitrodeephysics1729[at]gmail[dot]com
 
 <!---
