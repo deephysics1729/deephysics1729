@@ -2,7 +2,7 @@
 - 👀 My research interest involves understanding the long-term magnetic variability of our nearest star, the Sun.
 - 🌱 Currently, I am reconstructing the Sun's magnetic activity cycles through past millennia using radio-isotope data.
 - 🌱 I’m also passionate about playing with statistical data analysis and data visualisation techniques.
-- 💞️ Open for collaborations.
+- 🌱 Open for collaborations.
 - 📫 You can reach me at chitrodeephysics1729[at]gmail[dot]com
 
 <!---
